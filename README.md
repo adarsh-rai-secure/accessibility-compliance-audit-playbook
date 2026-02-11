@@ -1,2 +1,5 @@
-# accessibility-compliance-audit-playbook
-Designed a GRC audit program for ADA and WCAG 2.2 compliance, with KPIs, SOPs, third-party controls, budget, and ROI-backed execution.
+ADA and WCAG 2.2 GRC Audit Program
+
+I built a Governance, Risk, and Compliance program to move a company from reactive accessibility fixes to repeatable audit readiness. The WAAT initiative defines clear ownership (a dedicated accessibility and audit team), formal audit checkpoints, and leadership reporting so ADA and WCAG 2.2 compliance becomes measurable and enforceable, not aspirational. It is structured like a modern assurance program: identify risk, standardize controls, test continuously, and document outcomes for internal and external stakeholders. 
+
+To make execution realistic, I treated this as a program management deliverable, not a policy memo. I scoped staffing, built a 6-month implementation plan, defined KPIs and remediation timelines, drafted department SOPs, and modeled costs and ROI to support executive approval. The result is a compliance operating model that also maps cleanly to cyber risk work: third-party integration governance, control accountability, and continuous testing gates that reduce legal exposure and prevent repeat incidents at scale. 
